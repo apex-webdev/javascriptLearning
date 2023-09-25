@@ -1,3 +1,4 @@
+"user strict"
 let score = "nowshad"
 
 //console.log(typeof score);
